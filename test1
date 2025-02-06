@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Save Animals & Wildlife</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .hero {
+            background-image: url('https://example.com/wildlife-image.jpg');
+            background-size: cover;
+            background-position: center;
+            color: white;
+            padding: 4em 2em;
+            text-align: center;
+        }
+        h1 {
+            font-size: 2.5em;
+            margin-bottom: 0.5em;
+        }
+        section {
+            padding: 2em;
+            background-color: #fff;
+            margin: 1em;
+            border-radius: 10px;
+        }
+        .call-to-action {
+            text-align: center;
+            margin-top: 2em;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 0.8em 2em;
+            font-size: 1.2em;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        button:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Save Animals & Wildlife</h1>
+        <p>Join the movement to protect our planet's wildlife.</p>
+    </header>
+
+    <div class="hero">
+        <h1>Protect Endangered Species</h1>
+        <p>Let's work together to save animals in danger of extinction.</p>
+    </div>
+
+    <section>
+        <h2>Why Save Wildlife?</h2>
+        <p>Wildlife plays a crucial role in maintaining the balance of our ecosystems. Without them, natural processes like pollination, seed dispersion, and pest control would be severely disrupted. Many species are facing threats such as habitat loss, poaching, and climate change.</p>
+    </section>
+
+    <section>
+        <h2>Endangered Species</h2>
+        <ul>
+            <li>Amur Leopard</li>
+            <li>Javan Rhino</li>
+            <li>Sumatran Orangutan</li>
+            <li>Vaquita (a species of porpoise)</li>
+            <li>Mountain Gorilla</li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>How You Can Help</h2>
+        <p>There are many ways you can help save wildlife, from supporting conservation efforts to spreading awareness. Here are some things you can do:</p>
+        <ul>
+            <li>Donate to wildlife conservation organizations.</li>
+            <li>Reduce your carbon footprint.</li>
+            <li>Adopt sustainable practices like recycling and reducing waste.</li>
+            <li>Join wildlife protection campaigns.</li>
+            <li>Volunteer with local conservation groups.</li>
+        </ul>
+    </section>
+
+    <section class="call-to-action">
+        <h2>Get Involved Today!</h2>
+        <button onclick="window.location.href='https://example.com/donate'">Donate Now</button>
+    </section>
+
+    <footer>
+        <p style="text-align: center; padding: 1em; background-color: #4CAF50; color: white;">
+            © 2025 Save Animals and Wildlife. All rights reserved.
+        </p>
+    </footer>
+
+</body>
+</html>
